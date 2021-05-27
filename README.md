@@ -11,6 +11,7 @@ For example,
 5! = 5 x 4 x 3 x 2 x 1 = 120.
 
 #Java#
+
 public class Factorial {
 	
 	public static int calculateFactorial(int n){
@@ -29,6 +30,7 @@ public class Factorial {
 
 
 #JavaScript#
+
 function factorial (n) {
   
   for (var i = n; i >= 2 ;){
